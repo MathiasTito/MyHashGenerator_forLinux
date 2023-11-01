@@ -1,12 +1,5 @@
 import sys , hashlib , zlib , time , random , os , time
 
-#I would like to thank CiKu370 in GitHub, as the framecode of this 
-#file is theirs since i dont have much time to code everything (I'm a busy cunt)
-#and ChatGPT is dumb at complex tasks and I myself am not a expert
-#at Python even though it is fairly easy to use... give 
-#me a break i don't even work with programming...
-#i deleted most of the "core" and refilled it, check his github
-
 
 
 #the fact that this is for Linux, doesn't mean you can't run it tru powershell, its not like you can't modify this file to fit your needs either
