@@ -31,7 +31,7 @@ except ImportError:
 	print (R+"\n["+W+"!"+R+"] "+G+"module "+W+"passlib or progressbar"+G+"not installed"+W+"\n")
 	sys.exit()
 
-# yeah i choose CikU370 framecode just to have something fancy, judge me
+# yeah i made this just to have something fancy, judge me
 os.system("clear")
 print (P+"\n....................................................................")
 print (P+".##.....##....###.....######..##.....##..######...########.##....##.")
